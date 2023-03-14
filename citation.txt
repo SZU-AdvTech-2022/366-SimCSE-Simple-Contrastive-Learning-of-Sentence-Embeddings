@@ -1,0 +1,8 @@
+@article{REPO-367,
+    author = "{Gao}, Tianyu and {Yao}, Xingcheng and {Chen}, Danqi",
+    eid = "arXiv:2104.08821",
+    journal = "arXiv e-prints",
+    pages = "arXiv:2104.08821",
+    title = "{{SimCSE: Simple Contrastive Learning of Sentence Embeddings}}",
+    year = "2021"
+}
